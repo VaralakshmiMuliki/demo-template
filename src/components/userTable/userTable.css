@@ -1,0 +1,21 @@
+
+.search-bar{
+    width: 18%;
+    margin-bottom: 10px;
+}
+.page-container{
+    padding: 15px;
+   
+    height: 100vh;
+}
+.user-icon{
+    color: rgb(63, 59, 59);
+    font-size: 20px;
+    padding: 5px;
+    
+   
+}
+.on-edit{
+    color: rgb(46, 46, 240);
+    cursor: pointer;
+}
